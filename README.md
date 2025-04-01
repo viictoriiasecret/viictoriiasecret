@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viictoriiasecret
-- 👀 I’m interested in UX/UI design, game design, fashion. etc.
+- 👀 I’m interested in UX/UI design/engineering, game design, fashion. etc.
 - 🌱 I’m currently learning python, HTML, markdown, etc.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me email: victoriaogunmakinwa84@gmail.com
